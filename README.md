@@ -64,13 +64,13 @@ sudo apt install -y \
 
 ### c. Clone the repository
 ```bash
-git clone https://github.com/thanhovan/mrdoanh_projects.git
-cd mrdoanh_projects
+git clone https://github.com/is-buiquocdoanh/unitree_go2_edu.git
+cd unitree_go2_edu
 ```
 If not, git clone using SSH
 ```bash
-git clone git@github.com:thanhovan/mrdoanh_projects.git
-cd mrdoanh_projects
+git clone git@github.com/is-buiquocdoanh/unitree_go2_edu.git
+cd unitree_go2_edu
 ```
 ```bash
 sudo apt install ros-$ROS_DISTRO-image-tools
