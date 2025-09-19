@@ -1,6 +1,3 @@
-# mrdoanh_projects
-Mr. Doanh Project
-
 # UNITREE GO2 EDU
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-orange)](https://docs.ros.org/en/humble/) 
