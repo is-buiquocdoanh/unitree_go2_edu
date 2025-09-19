@@ -1,0 +1,15 @@
+# Ignore build artifacts
+build/
+install/
+log/
+
+# Ignore ROS2 colcon metadata
+.colcon*
+
+# Ignore editor/OS junk
+*.swp
+*.swo
+*.DS_Store
+
+# VSCode settings
+.vscode/
